@@ -1,0 +1,6 @@
+{
+  "name": "AI Marketing Assistant",
+  "description": "ผู้ช่วยสร้างและวิเคราะห์คอนเทนต์การตลาดอัจฉริยะ ขับเคลื่อนด้วย Gemini AI (Intelligent Marketing Content Generator & Analyzer)",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
